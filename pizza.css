@@ -1,0 +1,36 @@
+div{
+    display: block;
+}
+
+#div_banner{
+    height: 400px;
+    background-image: url(pictures/pic01.jpg);
+    width: 100%;
+
+}
+
+#div1{
+    background-color: hsl(0, 0, 25);
+    height: 400px;
+    width: 100%;
+}
+
+#div2{
+    background-color: hsl(0, 0, 10);
+    height: 400px;
+    width: 100%;
+}
+
+#div3{
+    background-color: hsl(0, 0, 25);
+    height: 400px;
+    width: 100%;
+    
+}
+
+#div4{
+    background-color: hsl(0, 0, 10);
+    height: 400px; 
+    width: 100%;
+}
+

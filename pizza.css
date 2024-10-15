@@ -5,31 +5,35 @@ div{
 #div_banner{
     height: 400px;
     background-image: url(pictures/pic01.jpg);
+    background-position-x: center;
+    background-position-y: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
     width: 100%;
-
+    display: block;
 }
 
-#div1{
-    background-color: hsl(0, 0, 25);
+#div01{
+    background-color: 	rgb(64, 64, 64);
     height: 400px;
     width: 100%;
 }
 
-#div2{
-    background-color: hsl(0, 0, 10);
+#div02{
+    background-color: rgb(13, 13, 13);
     height: 400px;
     width: 100%;
 }
 
-#div3{
-    background-color: hsl(0, 0, 25);
+#div03{
+    background-color: 	rgb(64, 64, 64);
     height: 400px;
     width: 100%;
     
 }
 
-#div4{
-    background-color: hsl(0, 0, 10);
+#div04{
+    background-color: rgb(13, 13, 13);
     height: 400px; 
     width: 100%;
 }

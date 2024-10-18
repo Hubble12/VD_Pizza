@@ -1,6 +1,10 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
     color: white;
+    overflow-x: hidden;
+    width: 100%;
+    margin: 0%;
+    padding: 0%;
 }
 
 div{
@@ -90,7 +94,7 @@ div{
     margin-right: 15%;
     margin-top: 3%;
     float: left;
-    width: 30%;
+    width: 40%;
 
 
 }
@@ -103,17 +107,69 @@ div{
 
 #menu_text{
     text-align: center;
+    font-weight: bold;
+    margin: auto;
 }
 
 #menu_div{
     width: 100%;
-    padding: 5%;
+    padding: 1%;
+    margin: auto;
+}
+
+#ajanlatunk_text{
+    width: 30%;
+    font-size: 150%;
+    text-align: center;
+    margin: auto;
+    font-weight: 100;
 }
 
 #menu_altext{
-    width: 30%;
+    width: 70%;
     text-align: center;
+    margin: auto;
 }
+
+#panelek{
+    width: 80%;
+    text-align: center;
+    margin: auto;
+    border: 1px white;
+    padding: 25px;
+}
+
+.alpanelek{
+    display: inline;
+    border: 1px;
+    border-style: solid;
+    border-color: white;
+    height: 50px;
+    width: 100%;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 4%;
+    margin-right: 4%;
+}
+
+#special_text{
+    text-align: center;
+    font-weight: bold;
+    padding: 1%;
+    margin: 0%;
+}
+
+#izek_text{
+    width: 30%;
+    font-size: 150%;
+    text-align: center;
+    margin: auto;
+    font-weight: 100;
+}
+
+
 
 
 

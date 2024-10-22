@@ -36,7 +36,7 @@ div{
 
 #card03{
     background-color: 	rgb(64, 64, 64);
-    height: 400px;
+    height: 700px;
     width: 100%;
     
 }
@@ -150,8 +150,8 @@ div{
     padding-bottom: 12px;
     padding-left: 50px;
     padding-right: 50px;
-    margin-left: 4%;
-    margin-right: 4%;
+    margin-left: 2%;
+    margin-right: 2%;
 }
 
 #special_text{
@@ -169,6 +169,88 @@ div{
     font-weight: 100;
 }
 
+
+
+
+
+
+
+
+
+#kepek_outer_div{
+    margin: 2%;
+
+}
+
+
+
+#kepek_left_div{
+    width: 40%;
+
+}
+
+#kepek_left_top_div{
+    width: 100%;
+    height: 100%;
+    background-position: center;
+
+}
+
+
+#kepek_left_bottom_div{
+
+}
+
+#kepek_left_bottom_left_div{
+    display: inline;
+
+}
+
+#kepek_left_bottom_right_div{
+    display: inline;
+
+}
+
+
+
+
+
+#kepek_right_div{
+    width: 30%;
+    display: inline;
+
+}
+
+#kepek_right_top_div{
+    display: inline;
+
+}
+
+#kepek_right_bottom_div{
+
+}
+
+
+
+#pic1{
+    width: 70%;
+    height: 70%;
+}
+
+#pic3{
+    width: 35%;
+    height: 35%;
+}
+
+#pic4{
+    width: 35%;
+    height: 35%;
+}
+
+#pic2{
+    width: 20%;
+    height: 20%;
+}
 
 
 

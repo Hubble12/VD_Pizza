@@ -36,7 +36,7 @@ div{
 
 #card03{
     background-color: 	rgb(64, 64, 64);
-    height: 700px;
+    height: 900px;
     width: 100%;
     
 }
@@ -178,14 +178,15 @@ div{
 
 
 #kepek_outer_div{
-    margin: 2%;
+    margin: auto;    
 
 }
 
 
 
 #kepek_left_div{
-    width: 40%;
+    width: 50%;
+    display: inline-block;
 
 }
 
@@ -193,21 +194,27 @@ div{
     width: 100%;
     height: 100%;
     background-position: center;
+    padding: 3%;
+
 
 }
 
 
 #kepek_left_bottom_div{
+    margin: auto;
 
 }
 
 #kepek_left_bottom_left_div{
     display: inline;
+    padding: 3%;
+
 
 }
 
 #kepek_left_bottom_right_div{
     display: inline;
+    padding: 3%;
 
 }
 
@@ -216,40 +223,48 @@ div{
 
 
 #kepek_right_div{
-    width: 30%;
-    display: inline;
+    width: 50%;
+    float: right;
 
 }
 
 #kepek_right_top_div{
-    display: inline;
+    display: inline-block;
+    padding: 3%;
+
 
 }
 
 #kepek_right_bottom_div{
+    display: block;
+    padding: 3%;
 
 }
 
 
 
 #pic1{
-    width: 70%;
-    height: 70%;
+    width: 595px;
 }
 
 #pic3{
-    width: 35%;
-    height: 35%;
+    width: 275px;
+    height: 230px;
 }
 
 #pic4{
-    width: 35%;
-    height: 35%;
+    width: 276px;
+    height: 230px;
 }
 
 #pic2{
-    width: 20%;
-    height: 20%;
+    width: 500px;
+    height: 500px;
+}
+
+#pic5{
+    width: 50%;
+    height: 30%;
 }
 
 

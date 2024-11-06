@@ -36,14 +36,14 @@ div{
 
 #card03{
     background-color: 	rgb(64, 64, 64);
-    height: 1200px;
+    height: 850px;
     width: 100%;
     
 }
 
 #card04{
     background-color: rgb(13, 13, 13);
-    height: 400px; 
+    height: 800px; 
     width: 100%;
 }
 
@@ -289,13 +289,57 @@ div{
 
 
 #almenu01{
+    display: inline-block;
+    margin: 5%;
+    width: 25%;
+    height: 300px;
+    float: left;
 
 }
 
 #almenu02{
-
+    display: inline-block;
+    margin: 5%;
+    width: 20%;
+    height: 300px;
 }
 
-#almenu02{
-
+#almenu03{
+    display: inline-block;
+    margin: 5%;
+    width: 25%;
+    height: 300px;
+    float: right;
 }
+
+#lablec{
+    margin: 0%;
+    padding: 8%;
+}
+
+hr{
+    width: 100%;
+}
+
+#varunk_text{
+}
+
+#foglal_text{
+    text-decoration: underline;
+}
+
+
+
+
+@media only screen and (max-width: 800px) {
+    body {
+      background-color: lightblue;
+    }
+    img{
+        display: block;
+    }
+    .kepek_poz{
+        display: block;
+    }
+
+  }

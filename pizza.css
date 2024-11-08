@@ -5,6 +5,7 @@ body{
     width: 100%;
     margin: 0%;
     padding: 0%;
+    background-color: 	rgb(64, 64, 64);
 }
 
 div{
@@ -20,6 +21,7 @@ div{
     background-repeat: no-repeat;
     width: 100%;
     display: block;
+    margin-bottom: 0%;
 }
 
 #card01{
@@ -103,6 +105,10 @@ div{
 
 #tortenetunk_text{
     margin-left: 62%;
+}
+
+#piadina{
+    margin-right: 20%;
 }
 
 #menu_text{
@@ -331,9 +337,8 @@ hr{
 
 
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 1100px) {
     body {
-      background-color: lightblue;
     }
     img{
         display: block;
@@ -342,4 +347,197 @@ hr{
         display: block;
     }
 
+    #tortenetunk_text{
+        margin-left: 22%;
+    }
+
+    #piadina{
+        margin-right: 40%;
+    }
+
+    
+#card01_left{
+    padding: 1%;
+    margin-top: 1%;
+    float: left;
+    width: 50%;
+    display: block;
+    margin: auto;
+    float: right;
+    margin-right: 30%;
+
+
+}
+
+#card01_right{
+    padding: 1%;
+    margin-top: 3%;
+    float: left;
+    width: 50%;
+    display: block;
+    margin-right: 30%;
+    float: right;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+    #kepek_left_div{
+        width: 30%;
+        display: block;
+        margin: auto;
+    
+    }
+    
+    #kepek_left_top_div{
+        width: 100%;
+        height: 100%;
+        background-position: center;
+        padding: 1%;
+    
+    
+    }
+    
+    
+    #kepek_left_bottom_div{
+        width: 100%;
+        margin: auto;
+    
+    
+    
+    }
+    
+    #kepek_left_bottom_left_div{
+        display: block;
+        padding: 1%;
+    
+    
+    }
+    
+    #kepek_left_bottom_right_div{
+        display: block;
+        padding: 1%;
+        width: 100%;
+    
+    }
+    
+    
+    
+    
+    
+    #kepek_right_div{
+        width: 30%;
+        margin: auto;
+        display: block;
+        margin-right: 35%;
+    
+    }
+    
+    #kepek_right_top_div{
+        display: inline-block;
+        padding: 2%;
+        width: 50%;
+    
+    
+    }
+    
+    #kepek_right_bottom_div{
+        display: block;
+        padding: 2%;
+        width: 50%;
+    
+    }
+
+
+
+
+
+
+
+    #card03{
+        background-color: 	rgb(64, 64, 64);
+        height: 1800px;
+        width: 100%;
+        
+    }
+
+
+
+
+
+
+
+    #pic1{
+        width: 400px;
+    }
+    
+    #pic3{
+        width: 400px;
+        height: 250px;
+    }
+    
+    #pic4{
+        width: 400px;
+        height: 250px;
+    }
+    
+    #pic2{
+        width: 400px;
+        height: 397px;
+    }
+    
+    #pic5{
+        width: 400px;
+        height: 248px;
+    }
+
+    #kepek_outer_div{
+        margin-right: 50%;
+    }
+  }
+
+
+
+
+  @media only screen and (max-width: 680px) {
+    .alpanelek{
+        display: block;
+        border: 1px;
+        border-style: solid;
+        border-color: white;
+        height: 50px;
+        width: 100%;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        padding-left: 4px;
+        padding-right: 4px;
+        width: 40%;
+        margin: auto;
+        margin-top: 2%;
+    }
+
+    #card02{
+        height: 600px;
+        width: 100%;
+        
+    }
+
+  }
+
+  @media only screen and (max-width: 580px) {
+    #card01{
+        height: 500px;
+    }
+ 
   }

@@ -38,7 +38,7 @@ div{
 
 #card03{
     background-color: 	rgb(64, 64, 64);
-    height: 850px;
+    height: 800px;
     width: 100%;
     
 }
@@ -533,6 +533,29 @@ hr{
         
     }
 
+    #lablec{
+        display: block;
+    }
+    #almenu01{
+        display: block;
+        width: 80%;
+        margin-bottom: 0%;
+    }
+    #almenu02{
+        display: block;
+        width: 80%;
+        margin-top: -1%;
+    }
+    #almenu03{
+        display: block;
+        width: 80%;
+        margin-top: 80%;
+    }
+
+    #card04{
+        height: 1400px;
+    }
+
   }
 
   @media only screen and (max-width: 580px) {
@@ -540,4 +563,161 @@ hr{
         height: 500px;
     }
  
+  }
+
+  @media only screen and (max-width: 550px) {
+    #pic1{
+        width: 300px;
+    }
+    
+    #pic3{
+        width: 300px;
+        height: 250px;
+    }
+    
+    #pic4{
+        width: 300px;
+        height: 250px;
+    }
+    
+    #pic2{
+        width: 300px;
+        height: 297px;
+    }
+    
+    #pic5{
+        width: 300px;
+        height: 248px;
+    }
+
+ 
+  }
+
+  @media only screen and (max-width: 400px) {
+    #pic1{
+        width: 250px;
+    }
+    
+    #pic3{
+        width: 250px;
+        height: 250px;
+    }
+    
+    #pic4{
+        width: 250px;
+        height: 250px;
+    }
+    
+    #pic2{
+        width: 250px;
+        height: 297px;
+    }
+    
+    #pic5{
+        width: 250px;
+        height: 248px;
+    }
+
+ 
+  }
+
+
+  @media only screen and (max-width: 400px) {
+    #card02{
+        height: 660px;
+    }
+
+
+ 
+  }
+
+
+
+
+
+  @media only screen and (max-width: 620px) {
+    #lablec{
+        display: block;
+    }
+    #almenu01{
+        display: block;
+        width: 80%;
+        margin-bottom: 0%;
+    }
+    #almenu02{
+        display: block;
+        width: 80%;
+        margin-top: -1%;
+    }
+    #almenu03{
+        display: block;
+        width: 80%;
+        margin-top: 100%;
+    }
+
+    #card04{
+        height: 1400px;
+    }
+
+  }
+
+  @media only screen and (max-width: 500px) {
+    #lablec{
+        display: block;
+    }
+    #almenu01{
+        display: block;
+        width: 80%;
+        margin-bottom: 0%;
+    }
+    #almenu02{
+        display: block;
+        width: 80%;
+        margin-top: -1%;
+    }
+    #almenu03{
+        display: block;
+        width: 80%;
+        margin-top: 120%;
+    }
+
+    #card04{
+        height: 1400px;
+    }
+
+  }
+
+  @media only screen and (max-width: 500px) {
+    #lablec{
+        display: block;
+    }
+    #almenu01{
+        display: block;
+        width: 80%;
+        margin-bottom: 0%;
+    }
+    #almenu02{
+        display: block;
+        width: 80%;
+        margin-top: -1%;
+    }
+    #almenu03{
+        display: block;
+        width: 80%;
+        margin-top: 145%;
+    }
+
+    #card04{
+        height: 1400px;
+    }
+
+
+
+  }
+
+  @media only screen and (max-width: 400px) {
+    #special_text{
+        font-size: 140%;
+    }
+
   }

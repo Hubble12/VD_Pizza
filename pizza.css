@@ -49,6 +49,34 @@ div{
     width: 100%;
 }
 
+#card05{
+    background-color: rgb(13, 13, 13);
+    height: 100px; 
+    width: 100%;
+    margin-top: -1%;
+
+    
+}
+
+#alvonal{
+    width: 80%;
+    color: gray;
+}
+
+.alszoveg{
+    text-align: center;
+    margin: auto;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+#webdone{
+    text-decoration: underline;
+    margin: auto;
+}
+
+
+
 #undernav01{
     color: white;
     text-align: left;

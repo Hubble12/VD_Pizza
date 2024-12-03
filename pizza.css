@@ -134,7 +134,7 @@ div{
     margin-top: 3%;
     float: left;
     width: 40%;
-    color: gray;
+    color: white;
 
 
 }
@@ -175,7 +175,7 @@ p{
 }
 
 #menu_altext{
-    width: 70%;
+    width: 55%;
     text-align: center;
     margin: auto;
 }
@@ -228,6 +228,7 @@ p{
 
 #kepek_outer_div{
     margin: auto;
+    margin-top: 40px;
 }
 
 
@@ -262,7 +263,7 @@ p{
 #kepek_left_bottom_left_div{
     width: 260px;
     height: 230px;
-    margin: 2%;
+    margin: 1%;
     background-image: url(pictures/pic03.jpg);
     background-size: 120%;
     background-repeat: no-repeat;
@@ -274,8 +275,8 @@ p{
 #kepek_left_bottom_right_div{
     float: right;
     width: 260px;
-    height: 230px;
-    margin: 2%;
+    height: 207px;
+    margin: 1%;
     background-image: url(pictures/pic04.jpg);
     background-size: 120%;
     background-repeat: no-repeat;
@@ -287,7 +288,7 @@ p{
 
 
 #kepek_right_div{
-    width: 35%;
+    width: 40%;
     float: right;
 
 }
@@ -298,7 +299,7 @@ p{
     
     width: 260px;
     height: 430px;
-    margin: 2%;
+    margin: 1%;
     background-image: url(pictures/pic02.jpg);
     background-size: 300%;
     background-repeat: no-repeat;
@@ -312,8 +313,8 @@ p{
 
 
     width: 260px;
-    height: 295px;
-    margin: 2%;
+    height: 283px;
+    margin: 1%;
     background-image: url(pictures/pic05.jpg);
     background-size: 120%;
     background-repeat: no-repeat;
@@ -345,6 +346,48 @@ p{
     width: 300px;
     height: 248px;
 }
+
+#kep_szovegek_1{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 74%;
+    vertical-align: bottom;
+}
+
+#kep_szovegek_2{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 70%;
+    vertical-align: bottom;
+}
+
+#kep_szovegek_3{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 71%;
+    vertical-align: bottom;
+}
+
+#kep_szovegek_4{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 150%;
+    vertical-align: bottom;
+}
+
+#kep_szovegek_5{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 100%;
+    vertical-align: bottom;
+}
+
+
 
 
 

@@ -15,8 +15,8 @@ div{
 }
 
 #hamburger_icon{
-    height: 20px;
-    width: 20px;
+    height: 50px;
+    width: 50px;
     opacity: 100%;
     float: right;
     padding: 7px;
@@ -543,8 +543,11 @@ hr{
 
 #kepek_outer_div{
     display: grid;
-    row-gap: 500px;
+    row-gap: 700px;
     grid-template-columns: auto;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
 
 }
 
@@ -552,41 +555,45 @@ hr{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 500px;
-    height: 500px;
+    width: 400px;
+    height: 400px;
 
     background-image: none;
-    background-color: aquamarine;
-    border: 1px solid;
+    
 }
 
 #kepek_left_div{
     background-image: none;
-
+    margin-left: auto;
+    margin-right: 35%;
+    display: grid;
+    float: right;
 }
 
 #kepek_left_top_div{
-    background-image: none;
-
+    margin-left: auto;
+    margin-right: auto;
 
 }
 
 
 #kepek_left_bottom_div{
-    background-image: none;
     display: grid;
-
-
+    margin-left: auto;
+    margin-right: auto;
 
 }
 
 #kepek_left_bottom_left_div{
-    background-image: none;
+    margin-left: auto;
+    margin-right: auto;
 
 }
 
 #kepek_left_bottom_right_div{
-    background-image: none;
+    margin-left: auto;
+    margin-right: auto;
+
 }
 
 
@@ -594,18 +601,22 @@ hr{
 
 
 #kepek_right_div{
-    background-image: none;
-
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
 }
 
 #kepek_right_top_div{
 
-    background-image: none;
+    margin-left: auto;
+    margin-right: auto;
 
 }
 
 #kepek_right_bottom_div{
-    background-image: none;
+    margin-left: auto;
+    margin-right: auto;
+
 }
 
 
@@ -616,8 +627,9 @@ hr{
 
     #card03{
         background-color: 	rgb(64, 64, 64);
-        height: 1800px;
+        height: 2000px;
         width: 100%;
+        
         
     }
 
@@ -900,9 +912,10 @@ hr{
   
   @media only screen and (max-width: 750px) {
     #hamburger_icon{
-        height: 20px;
-        width: 20px;
+        height: 50px;
+        width: 50px;
         opacity: 100%;
+        display: flex;
     }
 
     #kezdolap_text{

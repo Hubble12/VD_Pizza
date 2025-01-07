@@ -582,8 +582,8 @@ hr{
 
 
 #kepek_left_bottom_div{
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 15%;
+    margin-right: 5%;
 
 }
 
@@ -593,7 +593,7 @@ hr{
     display: block;
     width: 100%;
     height: 100%;
-    margin-left: 5%;
+    margin-left: -7%;
 
 }
 
@@ -602,7 +602,9 @@ hr{
     display: block;
     width: 100%;
     height: 100%;
-    margin-left: 60%;
+    margin-left: -20%;
+    margin-right: 4%;
+    padding-left: 20px;
 
 }
 
@@ -614,7 +616,7 @@ hr{
     margin-top: 300px;
 
     background-image: none;
-    margin-left: 17%;
+    margin-left: 20%;
     margin-right: auto;
     float: left;
     width: 520px;
@@ -1033,6 +1035,7 @@ hr{
         width: 300px;
         height: 100%;
         float: inline-start;
+        margin-top: -20%;
     
     }
     
@@ -1048,6 +1051,7 @@ hr{
         margin-right: auto;
         float: left;
         width: 300px;
+        margin-top: -20%;
     }
     
     #kepek_right_top_div{
@@ -1107,6 +1111,14 @@ hr{
         vertical-align: bottom;
     }
 
+    #card03{
+        background-color: 	rgb(64, 64, 64);
+        height: 2150px;
+        width: 100%;
+        
+        
+    }
+
  
   }
 
@@ -1120,8 +1132,8 @@ hr{
 
     #kepek_left_div{
         background-image: none;
-        margin-left: auto;
-        margin-right: 20%;
+        margin-left: 2%;
+        margin-right: 17%;
         float: right;
         width: 500px;
     }
@@ -1159,7 +1171,7 @@ hr{
         width: 200px;
         height: 40%;
         float: inline-start;
-        margin-top: 20%;
+        margin-top: 0%;
     
     }
     
@@ -1183,15 +1195,16 @@ hr{
         margin-right: auto;
         width: 110%;
         width: 200px;
-        margin-top: -120%;
+        margin-top: -160%;
     
     }
     
     #kepek_right_bottom_div{
-        margin-left: auto;
+        margin-left: 10%;
         margin-right: auto;
         width: 100%;
         height: 100%;
+        margin-top: -30%;
     
     }
 
@@ -1246,7 +1259,7 @@ hr{
 
     #card03{
         background-color: 	rgb(64, 64, 64);
-        height: 1600px;
+        height: 1500px;
         width: 100%;
         
         

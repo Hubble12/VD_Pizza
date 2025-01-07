@@ -166,6 +166,7 @@ p{
     text-align: center;
     font-weight: bold;
     margin: auto;
+    margin-top: 10px;
 }
 
 #menu_div{
@@ -498,10 +499,11 @@ hr{
 
     #tortenetunk_text{
         margin-left: 22%;
+        margin-right: 5%;
     }
 
     #piadina{
-        margin-right: 40%;
+        margin-right: 0%;
     }
 
     
@@ -513,7 +515,7 @@ hr{
     display: block;
     margin: auto;
     float: right;
-    margin-right: 30%;
+    margin-right: 0%;
     
 
 
@@ -694,7 +696,7 @@ hr{
     }
 
     #card02{
-        height: 920px;
+        height: 940px;
         width: 100%;
         
     }
@@ -828,7 +830,7 @@ hr{
     }
 
     #card02{
-        height: 920px;
+        height: 940px;
     }
 
     #div_banner{
@@ -931,7 +933,7 @@ hr{
     }
 
     #card02{
-        height: 920px;
+        height: 940px;
     }
 
 
